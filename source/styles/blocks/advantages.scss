@@ -42,28 +42,28 @@
 
 .advantages__text--leaf {
   &::before {
-    background-image: url("../../images/icons/advantages-item-leaf.svg");
+    background-image: url("../../images/icons/stack.svg#advantages-item-leaf");
     background-size: 30px 32px;
   }
 }
 
 .advantages__text--powder {
   &::before {
-    background-image: url("../../images/icons/advantages-item-powder.svg");
+    background-image: url("../../images/icons/stack.svg#advantages-item-powder");
     background-size: 26px 29px;
   }
 }
 
 .advantages__text--food {
   &::before {
-    background-image: url("../../images/icons/advantages-item-food.svg");
+    background-image: url("../../images/icons/stack.svg#advantages-item-food");
     background-size: 25px 30px;
   }
 }
 
 .advantages__text--time {
   &::before {
-    background-image: url("../../images/icons/advantages-item-time.svg");
+    background-image: url("../../images/icons/stack.svg#advantages-item-time");
     background-size: 25px 31px;
   }
 }
